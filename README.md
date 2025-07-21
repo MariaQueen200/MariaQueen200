@@ -6,7 +6,7 @@ Me chamo Maria Lorenza, tenho 18 anos e sou de Campo Grande, MS.
 Atualmente sou Desenvolvedora Front-End em formação, apaixonada por tecnologia,
 design e programação. 
 Atualmente, estou concluindo meu curso de Técnico em Desenvolvimento de Sistemas através do Senac.
-Já estagiei no CnPq como programadora de protótipos usando o arduíno e também, já fui estagiária da Compass UOL, estagiando na área do Front-End.
+Já estagiei no CnPq como programadora de protótipos escolares usando o arduíno e também estagiei na Compass UOL, como desenvolvedora em Front-End.
 <p >
         <img 
             alt="youtube views" 
