@@ -2,10 +2,10 @@
 
 **`Desenvolvedora Front-End`**
 
-Me chamo Maria Lorenza, tenho 18 anos, sou de Campo Grande, MS.
+Me chamo Maria Lorenza, tenho 18 anos e sou de Campo Grande, MS.
 Atualmente sou Desenvolvedora Front-End em formação, apaixonada por tecnologia,
 design e programação. 
-Estou concluindo meu curso de tecnico em desenvolvimento de Sistemas através do Senac.
+Atualmente, estou concluindo meu curso de Técnico em Desenvolvimento de Sistemas através do Senac.
 Já estagiei no CnPq como programadora de protótipos usando o arduíno e também, já fui estagiária da Compass UOL, estagiando na área do Front-End.
 <p >
         <img 
